@@ -1,3 +1,13 @@
+
+//============================================================================
+// Name        : Main.cpp
+// Author      : Luis Cruz
+// Version     : 1.0
+// Copyright   : None
+// Description : Keylogger
+//============================================================================
+
+
 #include <iostream>
 #include <windows.h>
 #include <Winuser.h>
