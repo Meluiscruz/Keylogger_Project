@@ -2,4 +2,4 @@
 
 This project was inspired from the book "Hacking, How to make Keylogger" by Alan T. Norman
 
-Disclaimer! : **This code was developed with academy purpose. I am not responseble for ilegal use.** 
+**Disclaimer!** : *_This code was developed with academy purpose. I am not responseble for ilegal use._* 
